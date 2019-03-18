@@ -1,0 +1,8 @@
+{
+  "name": "cbor-bench",
+  "version": "1.0.0",
+  "description": "Benchmarking extensible binary encoders",
+  "main": "index.js",
+  "author": "Matt Vollrath <matt@endpoint.com>",
+  "license": "MIT"
+}
